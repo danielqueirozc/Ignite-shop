@@ -5,7 +5,7 @@
 <p align="center"> Sua loja digital.. </p>
 
 <h4 align="center"> 
-	 Status: Em desenvolvimento...
+	 Status:  Finalizado
 </h4>
 
 <p align="center">
