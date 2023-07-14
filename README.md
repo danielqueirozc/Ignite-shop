@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="#"> Ignite Shop </a>
+    <a href="https://ignite-shop-wine-three.vercel.app/"> Ignite Shop </a>
 </h1>
 
 <p align="center"> Sua loja digital.. </p>
@@ -44,11 +44,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - Context API
 - TypeScript
 ---
-O layout da aplicação está disponível no Figma:
 
-<a href="https://www.figma.com/file/kBmbBqHWIf5Ww9ydgb5KK8/Ignite-Shop-2.0-(Copy)?node-id=0%3A1">
-  <img alt="Made by milenakmartins" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
-</a>
 
 <br>
 <br>
@@ -73,10 +69,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ https://github.com/JoaoAlberto20/ignite-shop.git
+$ https://github.com/danielqueirozc/Ignite-shop.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd + sua pasta + git clone git@github.com:JoaoAlberto20/ignite-shop.git
+$ cd + sua pasta + git clone git@github.com:danielqueirozc/Ignite-shop.git
 
 # Instale as dependências com:
 $ npm install
