@@ -8,14 +8,6 @@
 	 Status:  Finalizado
 </h4>
 
-<p align="center">
- <a href="#-about">About</a> •
- <a href="#-layout">Layout</a> • 
- <a href="#-tech-stack">Tech Stack</a> • 
- <a href="#-author">Author</a> • 
- <a href="#-license">License</a>
-
-</p>
 
 ![Preview](./igniteShop.png)
 
